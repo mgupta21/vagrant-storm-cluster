@@ -1,0 +1,11 @@
+127.0.0.1       localhost
+192.168.33.100  storm.nimbus
+192.168.33.101  storm.supervisor1
+192.168.33.102  storm.supervisor2
+192.168.33.103  storm.supervisor3
+192.168.33.104  storm.supervisor4
+192.168.33.105  storm.supervisor5
+192.168.33.201  storm.zookeeper1
+192.168.33.202  storm.zookeeper2
+192.168.33.203  storm.zookeeper3
+192.168.33.204  storm.zookeeper4
